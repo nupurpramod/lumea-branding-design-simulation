@@ -1,0 +1,25 @@
+name: Generate Project PDF
+
+on:
+  workflow_dispatch: # This adds a manual button to build your PDF whenever you want
+
+jobs:
+  convert_to_pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository files
+        uses: actions/checkout@v4
+
+      - name: Combine README and Blog into PDF
+        uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: .
+          output_dir: ./output-portfolio
+          images_dir: ./images # Pointing directly to your uploaded images folder
+          image_import: ./images
+
+      - name: Save PDF for Download
+        uses: actions/upload-artifact@v4
+        with:
+          name: LinkedIn-Project-Portfolio
+          path: ./output-portfolio/
