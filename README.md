@@ -10,7 +10,7 @@ The challenge: build a lifestyle brand from the ground up — one with a clear i
 
 Every brand decision starts with understanding who it's for and why it matters to them. I anchored Lumea around four core values — Sustainable Choices, Creative Together, Made to Inspire, Better Together — and built the visual identity to match: warm blues, lush greens, coral and gold, playful shapes that feel handmade rather than mass-produced.
 
-![Meet Lumea brand introduction](images/02-meet-lumea-brand-intro.jpg)
+![Meet Lumea brand introduction]([images/02-meet-lumea-brand-intro.jpg](https://github.com/nupurpramod/lumea-branding-design-simulation/blob/main/images/Brand%20introduction%20image%20for%20Lumea%20lifestyle%20brand%20featuring%20the%20text%20_Meet%20Lumea_%20Your%20Creative%20Partner_.%20Vibrant%20and%20colorful%20design%20with%20blues%2C%20lush%20greens%2C%20coral%20and%20gold%20accents.%20Playful%20shapes%20and%20patterns.%20I.jpg))
 *The brand introduction: "Meet Lumea, Your Creative Partner" — establishing tone, palette, and the emotional promise ("designed with heart, made for real life") before a single product enters the picture.*
 
 ## Designing the Product Concept
