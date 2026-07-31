@@ -37,7 +37,7 @@ A brand doesn't launch in a vacuum — it launches into a community that's alrea
 ## The Reflection
 
 Working through this simulation is what sent me down a small rabbit hole into branding strategy more broadly — which turned into its own 
-[Click here to read the full Blog Case Study](https://github.com/nupurpramod/lumea-branding-design-simulation/blob/main/blog-brand-inspiration.md)
+[Click here to read the full Blog Case Study](https://github.io/nupurpramod/lumea-branding-design-simulation/blob/main/blog-brand-inspiration.md)
 about why I can't stop thinking about how brands earn trust before they've said a word. Building Lumea from values → product → real-world context → community launch made that process concrete: a brand isn't a logo, it's a series of decisions about who you're for and why that should matter to them.
 
 ---
